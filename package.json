@@ -1,7 +1,7 @@
 {
   "name": "mern-back-end",
   "version": "1.0.0",
-  "description": "This is backend of ecommerce flipkart clone project",
+  "description": "tayles",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/index.server.js"
@@ -14,7 +14,7 @@
     "api",
     "api"
   ],
-  "author": "Rizwan Khan",
+  "author": "Imam Ibragimov",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
